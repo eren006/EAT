@@ -1,5 +1,5 @@
 #include <iostream>
-#include Incident.h
+#include incident.h
 using namespace std;
 
 //Def: this is a todo list class contains 0 or more incidents
